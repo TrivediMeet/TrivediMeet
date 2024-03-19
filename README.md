@@ -7,8 +7,11 @@ I am a second-year B.Tech student pursuing Artificial Intelligence and Machine L
 🚀 Skills
 
 Programming Languages: C, C++, Java, Python, JS
+
 Other FrameWorks: React js, Node js, Express js
+
 Machine Learning: List of ML frameworks/libraries I am familiar with: Sklearn, TensorFlow
+
 Data Science: Tools and techniques i am comfortable using: Pandas, Seaborn, Maplotlib, NumPy
 
 🌱 Learning
