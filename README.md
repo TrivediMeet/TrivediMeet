@@ -1,16 +1,27 @@
-### Hi there 👋
+Meet Trivedi
 
-<!--
-**TrivediMeet/TrivediMeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am a second-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about  FullStack web development, I am dedicated to exploring and contributing to the exciting field of web!!!
 
-Here are some ideas to get you started:
+🚀 Skills
+Programming Languages: C, C++, Java, Python, JS
+Other FrameWorks: React js, Node js, Express js
+Machine Learning: List of ML frameworks/libraries I am familiar with: Sklearn, TensorFlow
+Data Science: Tools and techniques i am comfortable using: Pandas, Seaborn, Maplotlib, NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning
+I am currently focused on enhancing my knowledge in:
+
+Web Development and ML
+
+📫 Contact
+Feel free to reach out to me:
+
+Email: tmeet0412@gmail.com
+LinkedIn: https://www.linkedin.com/in/meet-trivedi-a84989252/
+
+🌐 Personal Website
+link : to be added
+
+🤝 Let's Connect
+I'm always open to collaborating on interesting projects or discussing Web Dev. Connect with me if you share similar interests!
