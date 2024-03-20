@@ -5,7 +5,8 @@ About Me
 I am a second-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about  FullStack web development, I am dedicated to exploring and contributing to the exciting field of web!!!
 
 🚀 Technology stack
-Languages : C/C++, HTML/CSS, Python, JavaScript
+
+ Languages : C/C++, HTML/CSS, Python, JavaScript
 
  Frameworks : ReactJs , NodeJs , ExpressJs 
 
