@@ -6,13 +6,11 @@ I am a second-year B.Tech student pursuing Artificial Intelligence and Machine L
 
 🚀 Skills
 
-Programming Languages: C, C++, Java, Python, JS
+CC++ Java Python JavaScript React.js Node.js Express.js MongoDB HTML/CSS
 
-Other FrameWorks: React js, Node js, Express js
+GitHub Matplotlib Scikit-learn Pandas NumPy Keras Socket.IO Bootstrap Tailwind CSS Chakra UI
 
-Machine Learning: List of ML frameworks/libraries I am familiar with: Sklearn, TensorFlow
-
-Data Science: Tools and techniques i am comfortable using: Pandas, Seaborn, Maplotlib, NumPy
+Docker Git Oracle SQL YOLO Flask API
 
 🌱 Learning
 
