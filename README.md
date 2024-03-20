@@ -4,13 +4,19 @@ About Me
 
 I am a second-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about  FullStack web development, I am dedicated to exploring and contributing to the exciting field of web!!!
 
-🚀 Skills
+🚀 Technology stack
+Languages : C/C++, HTML/CSS, Python, JavaScript
 
-CC++ Java Python JavaScript React.js Node.js Express.js MongoDB HTML/CSS
+ Frameworks : ReactJs , NodeJs , ExpressJs 
 
-GitHub Matplotlib Scikit-learn Pandas NumPy Keras Socket.IO Bootstrap Tailwind CSS Chakra UI
+ Databases : MongoDB
 
-Docker Git Oracle SQL YOLO Flask API
+ Other Tools : Github, chakra UI
+
+ Data Structures and Algorithms
+
+ Competitive Programming
+
 
 🌱 Learning
 
