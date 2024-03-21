@@ -26,6 +26,4 @@ Feel free to reach out to me:
 - Email: tmeet0412@gmail.com
 - LinkedIn: https://www.linkedin.com/in/meet-trivedi-a84989252/
 
-## 🌐 Personal Website
 
-link : https://Trivedimeet.github.io/
