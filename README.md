@@ -17,7 +17,7 @@ I am a second-year B.Tech student pursuing Artificial Intelligence and Machine L
 
 I am currently focused on enhancing my knowledge in:
 
-- Web Development
+- Deep Learning
 
 ## 📫 Contact
 
