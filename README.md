@@ -42,7 +42,9 @@ Feel free to reach out to me:
 
 ## 🌐 Personal Website
 
-Link: https://trivedimeet.github.io/Meet-Trivedi/
+Link: https://meet-trivedi.vercel.app/
+
+
 
 
 
