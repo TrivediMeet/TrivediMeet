@@ -2,7 +2,7 @@
  
 ## About Me
 
-I am a third-year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about Full Stack web development and building Machine Learning models and , I am dedicated to exploring and contributing to the exciting field of Web!!!.
+I am a 4th year B.Tech student pursuing Artificial Intelligence and Machine Learning at Charusat University, Gujarat, India. Passionate about Full Stack web development and building Machine Learning models and , I am dedicated to exploring and contributing to the exciting field of Web!!!.
 
 ## 🚀 Tech Stack
 
